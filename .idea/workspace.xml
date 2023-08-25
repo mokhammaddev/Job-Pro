@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2571738-6fc0-4299-ada5-1b30677b52bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ozj9xgwZgJccIPo9qLGM8LNnSn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/muhammad/Desktop/projects/university",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog" />
+      <recent name="$PROJECT_DIR$/jobs" />
+      <recent name="$PROJECT_DIR$/account" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2571738-6fc0-4299-ada5-1b30677b52bd" name="Changes" comment="" />
+      <created>1682570156758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682570156758</updated>
+      <workItem from="1682570157837" duration="2653000" />
+      <workItem from="1682573269590" duration="4910000" />
+      <workItem from="1682581687075" duration="1742000" />
+      <workItem from="1682583437021" duration="167000" />
+      <workItem from="1682591763388" duration="661000" />
+      <workItem from="1682604615353" duration="124000" />
+      <workItem from="1682604948185" duration="7561000" />
+      <workItem from="1682623451014" duration="3879000" />
+      <workItem from="1682627471422" duration="2758000" />
+      <workItem from="1682654820774" duration="3499000" />
+      <workItem from="1682665516107" duration="1532000" />
+      <workItem from="1682741435585" duration="1499000" />
+      <workItem from="1682777225434" duration="2666000" />
+      <workItem from="1682853256219" duration="6000" />
+      <workItem from="1682853535272" duration="2434000" />
+      <workItem from="1682933942547" duration="11888000" />
+      <workItem from="1682975247876" duration="475000" />
+      <workItem from="1682975733282" duration="30000" />
+      <workItem from="1682975769633" duration="558000" />
+      <workItem from="1682976333607" duration="5000" />
+      <workItem from="1683000215910" duration="185000" />
+      <workItem from="1683000407180" duration="2635000" />
+      <workItem from="1683003223709" duration="1527000" />
+      <workItem from="1683005325151" duration="4646000" />
+      <workItem from="1683011347347" duration="289000" />
+      <workItem from="1683098630955" duration="159000" />
+      <workItem from="1683098808905" duration="4593000" />
+      <workItem from="1683106619009" duration="236000" />
+      <workItem from="1683107064797" duration="1700000" />
+      <workItem from="1683112441656" duration="1256000" />
+      <workItem from="1683175285928" duration="11361000" />
+      <workItem from="1683260331607" duration="3688000" />
+      <workItem from="1683269824750" duration="698000" />
+      <workItem from="1683311136149" duration="18107000" />
+      <workItem from="1683346122601" duration="2924000" />
+      <workItem from="1689847230121" duration="2036000" />
+      <workItem from="1689849565115" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
